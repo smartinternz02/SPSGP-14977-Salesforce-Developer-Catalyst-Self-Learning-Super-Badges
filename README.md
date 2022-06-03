@@ -1,3 +1,3 @@
-                                                    SAlesforce Developer Catayst 
+                                  SAlesforce Developer Catayst 
 
-                                      -------ApexSpecialist-Superbadge codes And Logic--------
+                    -------ApexSpecialist-Superbadge codes And Logic--------
